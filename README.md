@@ -72,4 +72,4 @@ Movies by Location is a Spring Boot application developed as part of the Uber Ch
 
 ## License
 
-This project is licensed under the Apache License, Version 2.0. See the [LICENSE](http://www.apache.org/licenses/LICENSE-2.0) file for details.
+This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE.md) file for details.
